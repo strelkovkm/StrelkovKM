@@ -1,16 +1,37 @@
-## Hi there 👋
+# Kirill Strelkov
+**ML Framework & Inference Engineer**
 
-<!--
-**strelkovkm/strelkovkm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems Engineer focused on ML Infrastructure and High-Performance Computing. I specialize in designing extensible inference engines and optimizing neural network kernels (C++, RVV) using advanced mathematical techniques like Winograd and GEMM.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Expertise
+
+* **Languages:** C++11/17 (STL, Templates), Python, Bash
+* **Optimization & Inference:** OpenVINO, RVV (RISC-V Vector), Winograd, GEMM, im2col, JIT-compilation
+* **ML Frameworks:** PyTorch, TensorFlow, CatBoost, XGBoost
+* **Infrastructure:** Linux (WSL2), Docker, CMake, CI/CD, GTest
+
+---
+
+### Key Professional Experience
+
+* **OpenVINO (YADRO & Intel Industrial Project):** Optimized neural network inference for RISC-V architecture. Developed high-performance GEMM and RVV kernels, resulting in a 6x performance increase for specific layers.
+* **Adept (Personal Project):** Developed an Automatic Differentiation Engine. Implemented the Winograd algorithm for 3x3 kernels, achieving 2.25x - 3x speedup during the inference stage.
+* **Yandex ML Training:** Successfully completed Series 1.0, 2.0, and 3.0. Currently focusing on Reinforcement Learning (ML 4.0).
+
+---
+
+
+### Education & Links
+
+* **University:** IITMM UNN (Lobachevsky University), CS (FIIT).
+* **Telegram:** @IDOLNOT4U
+* **LinkedIn:** [linkedin.com/in/strelkovkm](https://www.linkedin.com/in/strelkovkm)
+* **GitVerse:** [gitverse.ru/StrelkovKM](https://gitverse.ru/StrelkovKM)
+* **Email:** strelkovkm96@outlook.com
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/IDOLNOT4U)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/strelkovkm)
+[![GitVerse](https://img.shields.io/badge/GitVerse-634BFF?style=flat&logo=git&logoColor=white)](https://gitverse.ru/StrelkovKM)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:strelkovkm96@outlook.com)
