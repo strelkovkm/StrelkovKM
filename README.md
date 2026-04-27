@@ -28,7 +28,7 @@ Systems Engineer focused on ML Infrastructure and High-Performance Computing. I 
 * **University:** IITMM UNN (Lobachevsky University), CS (FIIT).
 * **Telegram:** @idolnot4u
 * **LinkedIn:** [linkedin.com/in/strelkovkm](https://www.linkedin.com/in/strelkovkm)
-* **GitVerse:** [gitverse.ru/StrelkovKM](https://gitverse.ru/strelkovkm)
+* **GitVerse:** [gitverse.ru/strelkovkm](https://gitverse.ru/strelkovkm)
 * **Email:** strelkovkm96@outlook.com
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/@idolnot4u)
